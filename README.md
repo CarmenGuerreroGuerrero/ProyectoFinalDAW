@@ -1,4 +1,4 @@
-# ProyectoFinalDAW
+# AnteProyecto Final DAW
 ## Introducción
 El proyecto pretende dar solución a un problema ocasionado por la pandemia. El problema es el siguiente, debido a la pandemia se han establecidos diferentes horarios de entrada y salida para los diferentes cursos, pero el timbre de aviso suena en todo el instituto y en todos los altavoces, por lo que se crea un poco de caos en las diferentes aula, ya que no coincide con los horarios de entrada y salida actuales.
 Con esta aplicación lo que se desea conseguir, según el horario de clase de cada curso y en el aula en la que se encuentra, es que suene el timbre y/o una música, en cada aula, para indicar el fin de la clase.

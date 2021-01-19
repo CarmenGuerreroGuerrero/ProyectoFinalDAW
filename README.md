@@ -13,5 +13,10 @@ Los medios que se usarán para la realización del proyecto son:
 - Entorno para trabajar en python en la raspberry pi.
 - Ordenador portatil para realizar la aplicación.
 - Entorno para trabajar con base de datos.
+## Planificación
+- Diseñar y desarrollar aplicación donde se introducirán los horarios, los cursos y el aula: 15 horas.
+- Diseñar base de datos: 10 horas.
+- Realizar programa en python para hacer funcionar el altavoz: 8 horas.
+- Hacer que todo funcione en su conjunto: 15 horas.
 
 
